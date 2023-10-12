@@ -17,7 +17,6 @@ public class ArticleController {
     ArticleView articleView = new ArticleView();
     ArticleRepository articleRepository = new ArticleRepository();
 
-
     Scanner scan = new Scanner(System.in);
 
 
